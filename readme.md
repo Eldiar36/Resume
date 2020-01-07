@@ -11,8 +11,9 @@ https://www.instagram.com/eldiar69/
 
 ##  Summary:
 
-_I am studying at the front end of the developer, and I want to master everything that is necessary for this.My goal is to become a professional and in-demand specialist in this field._
-##Skills:
+_I am studying at the front end of the developer, and I want to master everything that is necessary for this.My goal is to become a professional and in-demand specialist in this field._  
+
+##  Skills:
 +  Html
 +  Css
 +  Jquery
