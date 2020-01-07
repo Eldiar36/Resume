@@ -27,7 +27,8 @@ _I am studying at the front end of the developer, and I want to master everythin
  .show span:before { transform: translateY(0) rotate(-45deg); }   
  .show span:after{ transform: translateY(0) rotate(45deg); }
 ##  Experience:
-I work on Freelance sites
+I work on Freelance sites  
+
 **My projects:**  
 https://eldiar36.github.io/SeyrigPortfolio/  
 https://eldiar36.github.io/StabGrunt/  
